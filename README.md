@@ -11,22 +11,7 @@ The data are released in a **privacy-preserving form** to support transparency a
 ## 📂 Repository Structure
 
 data/
-├─ output_data_public.csv
-├─ output_data_public_correlations.csv
-├─ output_data_public_engagement_summary.csv
-├─ output_data_public_table_gender.csv
-├─ output_data_public_table_age_group.csv
-├─ output_data_public_table_education.csv
-├─ output_data_public_table_knowledge.csv
-├─ output_data_public_table_internet_usage.csv
-└─ output_data_public_table_incident_any.csv
 instruments/
- ├─ SeBIS_Indonesian_Adapted.pdf
- ├─ UX_Questionnaire.pdf
- └─ Expert_Evaluation_Rubric.pdf
-
-
-
 ---
 
 ## 📋 Research Instruments
