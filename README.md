@@ -8,12 +8,6 @@ The data are released in a **privacy-preserving form** to support transparency a
 
 ---
 
-## 📂 Repository Structure
-
-data/
-instruments/
----
-
 ## 📋 Research Instruments
 
 This repository also provides the research instruments used in the study,
@@ -21,6 +15,18 @@ including (i) an adapted Indonesian version of the SeBIS questionnaire,
 (ii) a post-interaction UX questionnaire, and (iii) an expert evaluation
 rubric for assessing LLM-generated cybersecurity recommendations.
 All instruments are provided for transparency and academic reuse.
+
+### SeBIS questionnaire - Indonesian Adapted
+This questionnaire is an adapted Indonesian version of the Security Behavior
+Intentions Scale (SeBIS). Items were translated and contextually adapted for the
+Indonesian context while preserving the original conceptual structure.
+The original SeBIS was proposed by Egelman and Peer.
+This adaptation is provided for academic research and non-commercial use.
+
+### UX questionnaire & Expert Evaluation Rubric:
+This instrument was developed as part of the research:
+“Integrating an LLM-Based Consultation Service into a National Cybersecurity
+Awareness Survey.” Provided for transparency and academic reuse.
 
 
 ## 📊 Dataset Description
